@@ -1,1 +1,16 @@
+Source command: unzip -l sample.zip
+Note: Listing captured without extracting the archive.
+
+unzip -l sample.zip
+
+
+Archive:  sample.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     6278  2023-06-18 00:45   assets/minecraft/textures/particle/...
+      205  2023-06-12 20:30   CREDITS.txt
+       72  2023-06-07 19:28   pack.mcmeta
+   553324  2023-06-18 00:43   pack.png
+---------                     -------
+   939463                     761 files
 

@@ -1,4 +1,5 @@
 # minecraft-texturepack-case
+# Case #1 – Minecraft Texture Pack OSINT & Static Analysis (False Positive)
 
 ## Overview
 This repository documents an OSINT-driven investigation of a suspicious Minecraft texture pack distributed via Discord.
